@@ -1,0 +1,26 @@
+{
+  "name": "server-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goikoBiko/server-status.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goikoBiko/server-status/issues"
+  },
+  "homepage": "https://github.com/goikoBiko/server-status#readme",
+  "dependencies": {
+    "@types/node": "^14.18.43",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
